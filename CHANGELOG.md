@@ -9,6 +9,14 @@ and signing material are **not published here**.
 
 Download the [latest Android APK](https://github.com/wayneward234-prog/Oakleaf-Library-Downloads/releases/latest/download/Oakleaf-Library.apk).
 
+## Version 2.0.4 — 12 November 2026
+
+[View this GitHub release](https://github.com/wayneward234-prog/Oakleaf-Library-Downloads/releases/tag/android-2.0.4)
+
+Install this APK over Oakleaf 2.0.3 to keep your existing library. You can also open the installed app and accept its update prompt.
+
+This update adds precise book placement with gaps, clears the cabinet top, and fixes horizontal spine photographs and books disappearing when they return to the cabinet. Both APK downloads contain the same signed app.
+
 ## Version 2.0.3 — 12 November 2026
 
 [View this GitHub release](https://github.com/wayneward234-prog/Oakleaf-Library-Downloads/releases/tag/android-2.0.3)
